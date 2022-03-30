@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{A189AE17-4989-4034-86FF-746FD8CDA2E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garrafadas.Mobile.Android", "Garrafadas.Mobile\Garrafadas.Mobile.Android\Garrafadas.Mobile.Android.csproj", "{D6B83FED-E1B1-4A4F-BE8C-03A6A1981CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garrafadas.Mobile", "Garrafadas.Mobile\Garrafadas.Mobile\Garrafadas.Mobile.csproj", "{28008FAB-1246-462D-8E1A-5D6B79CF95A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B83FED-E1B1-4A4F-BE8C-03A6A1981CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B83FED-E1B1-4A4F-BE8C-03A6A1981CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B83FED-E1B1-4A4F-BE8C-03A6A1981CC0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D6B83FED-E1B1-4A4F-BE8C-03A6A1981CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B83FED-E1B1-4A4F-BE8C-03A6A1981CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B83FED-E1B1-4A4F-BE8C-03A6A1981CC0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{28008FAB-1246-462D-8E1A-5D6B79CF95A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28008FAB-1246-462D-8E1A-5D6B79CF95A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28008FAB-1246-462D-8E1A-5D6B79CF95A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28008FAB-1246-462D-8E1A-5D6B79CF95A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6B83FED-E1B1-4A4F-BE8C-03A6A1981CC0} = {A189AE17-4989-4034-86FF-746FD8CDA2E6}
+		{28008FAB-1246-462D-8E1A-5D6B79CF95A9} = {A189AE17-4989-4034-86FF-746FD8CDA2E6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06991B2-A48F-4332-9004-2DDA204C490F}
+	EndGlobalSection
+EndGlobal
